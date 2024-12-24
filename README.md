@@ -16,22 +16,6 @@ This project aims to evaluate and compare the efficiency of various synchronizat
 - **Development Environment:** NetBeans
 - **Execution Platform:** Windows
 
-## Project Structure
-
-```
-├── src
-│   ├── producers
-│   ├── consumers
-│   ├── synchronization_methods
-│   ├── tanks
-├── lib
-│   ├── mpi.jar
-├── README.md
-```
-
-- **src:** Contains the source code for producers, consumers, synchronization methods, and tank simulation.
-- **lib:** Includes external dependencies such as `mpi.jar` for MPJ Express.
-
 ## Getting Started
 
 ### Prerequisites
