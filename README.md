@@ -40,26 +40,6 @@ This project aims to evaluate and compare the efficiency of various synchronizat
 2. MPJ Express library set up in your project.
 3. NetBeans IDE for development (optional but recommended).
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/sync-methods-comparison.git
-   ```
-2. Import the project into your IDE.
-3. Add `mpi.jar` to your project dependencies.
-
-### Running the Project
-
-1. Compile the project:
-   ```bash
-   javac -cp lib/mpi.jar src/**/*.java
-   ```
-2. Execute the program:
-   ```bash
-   java -cp lib/mpi.jar:. main.Main
-   ```
-
 ## How It Works
 
 - **Producers and Consumers:** Threads representing producers and consumers interact with the water tanks.
